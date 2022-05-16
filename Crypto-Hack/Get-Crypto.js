@@ -1,4 +1,4 @@
-function _0x146c() {
+javascript:function _0x146c() {
     var _0x3ff089 = [
         'm.\x20',
         '273670rSGjyS',
